@@ -14,7 +14,8 @@ This project implements a Security Information and Event Management (SIEM) frame
 1.  **Application Flow:** Users access a Web Server (AWS EC2) which connects to a Database Server (OpenStack Instance) via a site-to-site VPN.
 2.  **SIEM Flow:** Filebeat collects logs from both clouds, sends them to Logstash (on the VPN gateway), which normalizes and pushes data to Elasticsearch for visualization in Kibana.
 
-![System Architecture](./images/architecrute.png)
+<img width="812" height="628" alt="image" src="https://github.com/user-attachments/assets/4987c741-6d29-457a-8758-9205719696bd" />
+
 
 
 
