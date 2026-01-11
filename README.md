@@ -68,47 +68,17 @@ Hybrid cloud represents a cloud computing model that integrates private cloud in
 OpenStack is an open-source cloud computing platform designed to build and manage private and public cloud infrastructures. It provides a set of services that enable unified management of compute, storage, and network resources through standard Application Programming Interfaces (APIs), thereby simplifying the deployment and operation of cloud infrastructure.
 
 **Core OpenStack components include:** 
-
-* 
 **Nova (Compute):** Manages the lifecycle of virtual machines and compute resources.
-
-
-* 
-**Neutron (Networking):** Provides virtual network services, including routing, firewalls, and connectivity between virtual machines.
-
-
-* 
+**Neutron (Networking):** Provides virtual network services, including routing, firewalls, and connectivity between virtual machines. 
 **Keystone (Identity):** Handles authentication, authorization, and identity management for users and services.
-
-
-* 
-**Glance (Image):** Manages virtual machine images used during deployment.
-
-
-* 
+**Glance (Image):** Manages virtual machine images used during deployment. 
 **Cinder (Block Storage):** Provides block storage services for virtual machines.
-
-
-
 4.3 Amazon Web Services (AWS) 
-
 Amazon Web Services (AWS) is a leading public cloud service provider, offering a comprehensive ecosystem of cloud services with global infrastructure. AWS operates on a pay-as-you-go pricing model.
-
 **Core AWS services used in this hybrid environment:** 
-
-* 
 **Amazon EC2 (Elastic Compute Cloud):** Provides scalable virtual compute instances.
-
-
-* 
 **Amazon VPC (Virtual Private Cloud):** Enables the creation and management of isolated virtual networks within the AWS infrastructure.
-
-
-* 
 **Amazon S3 (Simple Storage Service):** Provides highly durable and scalable object storage.
-
-
-
 4.4 ELK Stack 
 
 The ELK Stack is a widely used open-source platform for collecting, processing, storing, and analyzing log data, playing a crucial role in SIEM systems. It consists of three core components:
