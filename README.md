@@ -107,7 +107,9 @@ The ELK Stack is a widely used open-source platform for collecting, processing, 
 
 
 * 
-**PHP:** A server-side programming language used to develop dynamic web applications, often deployed with Nginx to handle business logic.
+**PHP:** A server-side programming language used to develop dynamic web applications, often deployed with Nginx to handle business logic
+  model
+  <img width="853" height="617" alt="image" src="https://github.com/user-attachments/assets/cf5e8323-9c27-4de1-8431-40f2c53ca6e9" />
 
 
 
